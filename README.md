@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- ⚡ Fun fact **I like indie music and musicals.**
+- ⚡ Fun fact **I like listening to indie music and musicals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
